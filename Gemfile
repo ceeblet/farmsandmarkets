@@ -31,6 +31,8 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'devise'
 
+gem 'bootstrap-sass', '~> 3.1.1.1'
+
 group :test do
   gem 'rspec-rails', '~> 3.0.0.beta'
   gem 'capybara'
